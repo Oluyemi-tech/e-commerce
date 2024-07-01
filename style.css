@@ -1,0 +1,28 @@
+<style type="text/css">
+			#picture{
+				width:90%;
+				margin:10px;
+				padding:10px;
+				}
+			h1,h2{
+			color:#ffffff;
+			background-color:#0F5257;
+			font-size:2em;
+			font-family:verdana,arial,san-serif;
+			text-align:center;
+			}
+			p{
+			font-size:15px; 
+			text-align:center; 
+			margin:1px;
+			color:#466668;
+			}
+			[type="Add to cart"]{
+			color:white;
+			background-color:#792359;
+			margin-left:35%;
+			}
+			.picture{
+				width:300px;
+				}
+			
